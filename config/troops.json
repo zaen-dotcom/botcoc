@@ -1,0 +1,14 @@
+{
+    "troops": {
+        "naga": 10,
+        "baloon": 16,
+        "king": 1,
+        "queen": 1,
+        "warden": 1,
+        "minion_prince": 1
+    },
+    "spells": {
+        "amarah": 4,
+        "freeze": 3
+    }
+}
