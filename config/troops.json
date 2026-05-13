@@ -4,11 +4,14 @@
         "baloon": 16,
         "king": 1,
         "queen": 1,
-        "warden": 1,
-        "minion_prince": 1
+        "warden": 1
     },
     "spells": {
         "amarah": 4,
         "freeze": 3
-    }
+    },
+    "deploy_side": "top_left",
+    "hero_ability_delay": 20,
+    "spell_interval": 6,
+    "funnel_wait": 3
 }
